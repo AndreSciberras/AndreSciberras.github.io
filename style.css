@@ -1,5 +1,5 @@
 html{
-    background-image: url(../Images/Background.png);
+    background-image: url(Images/Background.png);
     height: 100%;
     background-size:cover;
     background-position: center;
@@ -89,5 +89,5 @@ h3{
  
 @font-face {
   font-family: "Levenim MT";
-  src: url("../Font/Lvnm.ttf");
+  src: url("Font/Lvnm.ttf");
   }
