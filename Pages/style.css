@@ -1,0 +1,93 @@
+html{
+    background-image: url(../Images/Background.png);
+    height: 100%;
+    background-size:cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+body{
+    height:100%;
+}
+
+.logo{
+    width: 200px;
+    height: 200px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 50px;
+}
+
+
+button{
+    background-color: transparent;
+    width: 100px;
+    height: 50px;
+    border: 3px solid #BBDBE8;
+    border-radius: 15px;
+    font-family: Levenim MT;
+}
+
+button a{
+    text-decoration: none;
+    color: #546368;
+    font-size: 20px;
+}
+
+.navbar{
+    margin-top: 10px;
+    text-align: center;
+}
+
+#infoBox{
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    height: auto;
+    border: 3px solid #BBDBE8;
+    width:80%;
+    overflow: auto;
+}
+
+h1{
+    color: #1F1599;
+    font-size: 50px;
+    font-family: Levenim MT;
+}
+
+h3{
+    margin: 5px;
+    font-size: 20px;
+    font-family: Levenim MT;
+    color: #1F7599;
+}
+
+.details{
+    align-content: center;
+    height: 30%;
+}
+
+#submit{
+    margin-top: 10px;
+}
+
+.aboutPic{
+    margin:10px;
+    width: 350px;
+    height: 500px;
+    float:left;
+}
+
+.title{
+    text-align: center;
+}
+
+.aboutText{
+   padding:10px;
+}
+ 
+@font-face {
+  font-family: "Levenim MT";
+  src: url("../Font/Lvnm.ttf");
+  }
